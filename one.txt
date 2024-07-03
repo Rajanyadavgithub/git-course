@@ -2,3 +2,6 @@ this is the first file
 
 second line text
 more content add
+
+some extra text message add
+this my first normal folder upload to git it means push
